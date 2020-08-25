@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lilly-facts/static/css/main.afa59202.chunk.css",
+    "main.js": "/lilly-facts/static/js/main.f40b013d.chunk.js",
+    "main.js.map": "/lilly-facts/static/js/main.f40b013d.chunk.js.map",
+    "runtime-main.js": "/lilly-facts/static/js/runtime-main.7df9aca5.js",
+    "runtime-main.js.map": "/lilly-facts/static/js/runtime-main.7df9aca5.js.map",
+    "static/js/2.1eb48a51.chunk.js": "/lilly-facts/static/js/2.1eb48a51.chunk.js",
+    "static/js/2.1eb48a51.chunk.js.map": "/lilly-facts/static/js/2.1eb48a51.chunk.js.map",
+    "index.html": "/lilly-facts/index.html",
+    "precache-manifest.6c83071454419000a6cd15a88c0bed16.js": "/lilly-facts/precache-manifest.6c83071454419000a6cd15a88c0bed16.js",
+    "service-worker.js": "/lilly-facts/service-worker.js",
+    "static/css/main.afa59202.chunk.css.map": "/lilly-facts/static/css/main.afa59202.chunk.css.map",
+    "static/js/2.1eb48a51.chunk.js.LICENSE.txt": "/lilly-facts/static/js/2.1eb48a51.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/lilly-facts/static/media/Logo.f89a5e06.png",
+    "static/media/lilly.jpg": "/lilly-facts/static/media/lilly.5b4c484b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df9aca5.js",
+    "static/js/2.1eb48a51.chunk.js",
+    "static/css/main.afa59202.chunk.css",
+    "static/js/main.f40b013d.chunk.js"
+  ]
+}
