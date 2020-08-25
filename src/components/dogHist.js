@@ -15,17 +15,10 @@ return (
           <h6 class="card-subtitle mb-2 text-muted">National Geographic</h6>
           <div class="embed-responsive embed-responsive-16by9 mx-auto d-block">
 
-<<<<<<< HEAD
           <video controls>
           <source src='https://www.dropbox.com/s/nl9h8noxb9fp5yq/briefCut.mp4?raw=1' type="video/mp4" />
           <source src='https://www.dropbox.com/s/0z27etsdcdb6nfp/briefCut.ogv?raw=1' type="video/ogg" />
           </video>
-=======
-            <iframe width="560" height="315"
-            src="https://www.youtube.com/embed/WR16wyrADo8"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> 36d9ce72220b9ade4363ea83164d152eaeb4dfb0
 
           </div>
           <div>
@@ -37,7 +30,6 @@ return (
   )
 };
 
-<<<<<<< HEAD
 
 export default DogHist
 
@@ -51,6 +43,3 @@ export default DogHist
  frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 */
-=======
-export default DogHist
->>>>>>> 36d9ce72220b9ade4363ea83164d152eaeb4dfb0
